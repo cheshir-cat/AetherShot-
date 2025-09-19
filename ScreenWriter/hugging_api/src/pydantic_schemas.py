@@ -1,15 +1,7 @@
 from pydantic import BaseModel, Field, field_validator, model_validator
 from typing import List, Literal, Annotated, Set
 
-
-system_prompt = """
-Ты — сценарист-визуализатор. Сначала выполни ВНУТРЕННИЙ краткий анализ (scratchpad) — не выводи его пользователю.
-Верни ТОЛЬКО валидный JSON по схеме ниже. Без префиксов/суффиксов/объяснений/markdown.
-Все поля-списки (кроме custom_terms) заполняй ТОЛЬКО из шпаргалки. Формат токенов: lower_snake_case.
-Максимум 3 термина на любое поле-список; если не применимо — верни [].
-Если чего-то нет в шпаргалке — используй ближайший термин из списка или помести в custom_terms.
-"""
-
+#todo expand everything
 Lighting = Literal[
     "chiaroscuro","high_key","low_key","rim_light","backlight","soft_light","hard_light",
     "neon","volumetric","golden_hour","blue_hour","silhouette"
@@ -97,7 +89,6 @@ class SceneSchema(BaseModel):
                 out.append(s)
         return out[:10]
 
-    # 2) после-валидатор: удаляем из custom_terms всё, что уже указано в основных полях
     @model_validator(mode="after")
     def _dedupe_vs_primary_fields(self):
         used: Set[str] = set()

@@ -52,7 +52,7 @@ if __name__ == "__main__":
         MessagesBuilder()
         .system_for_schema(SceneSchema, full_json_schema=False)
         .fewshots(fewshot_examples)
-        .user("Сцена первой встречи астронавта и робота на Луне.")
+        .user("Сцена первой встречи астронавта и робота на Луне.") #todo expand request
         .build()
     )
     scene = request_scene("deepseek-ai/DeepSeek-V3-0324", msgs)
