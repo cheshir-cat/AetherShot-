@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df276110-5d76-43e7-869f-19c6c610dff2" name="Changes" comment="Screenwriter todo">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/cache/postprocessor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/cache/request_saver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/main_api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/src/messages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/src/pydantic_schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScreenWriter/hugging_api/synth_dataset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap/3D Visualization.bdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap/3D Visualization.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap/deepseek_mermaid_20250830_bb72c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap/deepseek_mermaid_20250830_c2142c.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cheshir-cat&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cheshir-cat/AetherShot-.git&quot;,
+    &quot;accountId&quot;: &quot;72739d9c-817c-41dc-8ba2-3a7e123cbb11&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32pqRE7M1HUp9H4LdAy4xJRZms7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_api.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_assemble.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tmp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Ideas\3d visualization\OmniKit\exts\adapters" />
+      <recent name="C:\Ideas\3d visualization\Director\runtime\exits\com\dvl\director\sim" />
+      <recent name="C:\Ideas\3d visualization\Data\scenes" />
+      <recent name="C:\Ideas\3d visualization\ScreenWriter\hugging_api\src" />
+      <recent name="C:\Ideas\3d visualization\ScreenWriter\hugging_api\cache" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df276110-5d76-43e7-869f-19c6c610dff2" name="Changes" comment="" />
+      <created>1758127850499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758127850499</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Start ScreenWriter">
+      <option name="closed" value="true" />
+      <created>1758274317945</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758274317945</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Screenwriter todo">
+      <option name="closed" value="true" />
+      <created>1758278724838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758278724838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start ScreenWriter" />
+    <MESSAGE value="Screenwriter todo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screenwriter todo" />
+  </component>
+</project>
